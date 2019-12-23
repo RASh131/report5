@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"jp.ac.uryukyu.ie.e195741","l":"Enemy"},{"p":"jp.ac.uryukyu.ie.e195741","l":"Hero"},{"p":"jp.ac.uryukyu.ie.e195741","l":"LivingThing"},{"p":"jp.ac.uryukyu.ie.e195741","l":"Main"},{"l":"すべてのクラス","url":"allclasses-index.html"}]
